@@ -1,5 +1,8 @@
 <h1>Hi 👋, I'm Omar</h1>
-<h3 align="center">A passionate Software Engineering student and front end developer</h3>
+<h3 align="left">A passionate Software Engineering student and front end developer</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-al-hendi&label=Profile%20views&color=0e75b6&style=flat" alt="omar-al-hendi" /> </p>
 
