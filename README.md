@@ -19,5 +19,4 @@
 
  <img src="http://github-readme-streak-stats.herokuapp.com?user=omar-al-hendi&theme=dark&background=000000" height="190"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-al-hendi&layout=compact&theme=vision-friendly-dark" height="190"/>
- 
 
