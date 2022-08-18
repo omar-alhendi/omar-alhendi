@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d2671,100:c33764&height=300&section=header&text=Welcome%20render&fontSize=90" />
 </div>
 
 <h1>Hi 👋, I'm Omar</h1>
@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-al-hendi&label=Profile%20views&color=0e75b6&style=flat" alt="omar-al-hendi" /> </p>
