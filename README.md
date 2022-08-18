@@ -20,3 +20,4 @@
  <img src="http://github-readme-streak-stats.herokuapp.com?user=omar-al-hendi&theme=dark&background=000000" height="180"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-al-hendi&layout=compact&theme=vision-friendly-dark" height="180"/>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=omar-al-hendi&bg_color=000000&color=00b7ff&line=00b7ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
