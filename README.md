@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&fontColor=CAD1D9&color=0:1d2671,100:c33764&height=250&section=header&text=Hey%20Everyone&fontSize=90" />
 </div>
-
-<h1>Hi 👋, I'm Omar</h1>
 <h3 align="left">A passionate Software Engineering student and front end developer</h3>
 
 
