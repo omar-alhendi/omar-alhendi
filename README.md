@@ -34,8 +34,3 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-al-hendi&layout=compact&theme=vision-friendly-dark" height="150"/>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=omar-al-hendi&bg_color=000000&color=00b7ff&line=00b7ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-
