@@ -3,18 +3,15 @@
 </div>
 <h3 align="left"></h3>
 
-<p align='start'>
+<p align='center'>
     <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=omar-al-hendi&logo=Github&style=for-the-badge&color=16a085'>
     <a href='https://github.com/omar-al-hendi?tab=followers'>
         <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/omar-al-hendi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
     </a>
-    <a href="https://www.linkedin.com/in/omar-al-hendi">
+    <a href="https://www.linkedin.com/in/omar-al-hendi-902754203/">
       <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-al-hendi&label=Profile%20views&color=0e75b6&style=flat" alt="omar-al-hendi" /></p>
 
 
 ```yaml
