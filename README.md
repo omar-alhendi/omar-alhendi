@@ -3,11 +3,6 @@
 </div>
 <h3 align="left">A passionate Software Engineering student and front end developer</h3>
 
-
-<div align="start">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 <p align='start'>
     <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=omar-al-hendi&logo=Github&style=for-the-badge&color=16a085'>
     <a href='https://github.com/omar-al-hendi?tab=followers'>
@@ -30,15 +25,16 @@ company: Rihal.om
 
 fields_of_interests: [
     "Web Development",
-    "Block Chain",
+    "Blockchain",
     "Machine Learning",
     "DevOps"
 ]
   
 currently_learning: ["Docker, Solidity, Go"]
-
 ```
- <img src="http://github-readme-streak-stats.herokuapp.com?user=omar-al-hendi&theme=dark&background=000000" height="150"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-al-hendi&layout=compact&theme=vision-friendly-dark" height="150"/>
+<p>
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=omar-al-hendi&theme=dark&background=000000" height="100"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-al-hendi&layout=compact&theme=vision-friendly-dark" height="100"/>
+ </p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=omar-al-hendi&bg_color=000000&color=00b7ff&line=00b7ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
