@@ -13,7 +13,7 @@
     <a href='https://github.com/omar-al-hendi?tab=followers'>
         <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/omar-al-hendi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
     </a>
-    <a href="https://www.linkedin.com/in/alhaitham">
+    <a href="https://www.linkedin.com/in/omar-al-hendi">
       <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
