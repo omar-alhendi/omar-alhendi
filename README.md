@@ -31,14 +31,8 @@ fields_of_interests: [
 ]
   
 currently_learning: ["Docker, Solidity, Go"]
-```
-<p>
- <img src="http://github-readme-streak-stats.herokuapp.com?user=omar-al-hendi&theme=dark&background=000000" height="140"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-al-hendi&layout=compact&theme=vision-friendly-dark" height="140"/>
- </p>
+``` 
  
- 
-
 
 ## 🛠 Languages and Tools:
 
@@ -58,5 +52,10 @@ currently_learning: ["Docker, Solidity, Go"]
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
- 
+<p>
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=omar-al-hendi&theme=dark&background=000000" height="140"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-al-hendi&layout=compact&theme=vision-friendly-dark" height="140"/>
+ </p>
+
+ ## 📈 Contribution Graph:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=omar-al-hendi&bg_color=000000&color=00b7ff&line=00b7ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
