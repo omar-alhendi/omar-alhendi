@@ -1,7 +1,7 @@
 <div align="start">
 <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&fontColor=CAD1D9&color=0:1d2671,100:c33764&height=250&section=header&text=Hey%20Everyone&fontSize=90" />
 </div>
-<h3 align="left">A passionate Software Engineering student and front end developer</h3>
+<h3 align="left"></h3>
 
 <p align='start'>
     <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=omar-al-hendi&logo=Github&style=for-the-badge&color=16a085'>
@@ -36,5 +36,30 @@ currently_learning: ["Docker, Solidity, Go"]
  <img src="http://github-readme-streak-stats.herokuapp.com?user=omar-al-hendi&theme=dark&background=000000" height="100"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-al-hendi&layout=compact&theme=vision-friendly-dark" height="100"/>
  </p>
+ 
+ 
+ 
+ 
+ 
 
+
+## 🛠 Languages and Tools:
+
+### Frontend:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+### Backend:
+![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+ 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=omar-al-hendi&bg_color=000000&color=00b7ff&line=00b7ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
