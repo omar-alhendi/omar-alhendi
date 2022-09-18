@@ -1,5 +1,5 @@
 <div align="start">
-<img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&fontColor=CAD1D9&color=0:1d2671,100:c33764&height=250&section=header&text=Hey%20Everyone&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&fontColor=CAD1D9&color=0:1d2671,100:c33764&height=180&section=header&text=Hey%20Everyone&fontSize=60" />
 </div>
 <h3 align="left"></h3>
 
@@ -50,9 +50,14 @@ currently_learning: ["Docker, Solidity, Go"]
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <p>
- <img src="http://github-readme-streak-stats.herokuapp.com?user=omar-al-hendi&theme=dark&background=000000" height="140"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-al-hendi&layout=compact&theme=vision-friendly-dark" height="140"/>
+ 
  </p>
 
  ## 📈 Contribution Graph:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=omar-al-hendi&bg_color=000000&color=00b7ff&line=00b7ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<details>
+  <summary>:zap: More </summary>
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=omar-al-hendi&theme=dark&background=000000" height="140"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-al-hendi&layout=compact&theme=vision-friendly-dark" height="140"/>
+</details>
