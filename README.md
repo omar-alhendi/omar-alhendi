@@ -16,7 +16,7 @@
 
 ```yaml
 name: Omar Al Hendi
-current_job: front-end developer Intern
+current_job: Front-end Developer Intern
 education: Bachelor of Computer Science (Software Engineering)
 company: Rihal.om
 
