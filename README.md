@@ -4,7 +4,6 @@
 <h3 align="left"></h3>
 
 <p align='center'>
-    <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=omar-al-hendi&logo=Github&style=for-the-badge&color=16a085'>
     <a href='https://github.com/omar-al-hendi?tab=followers'>
         <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/omar-al-hendi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
     </a>
