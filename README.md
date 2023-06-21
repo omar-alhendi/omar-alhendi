@@ -53,10 +53,10 @@ currently_learning: ["Docker, Solidity, Go"]
  </p>
 
  ## 📈 Contribution Graph:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omar-al-hendi&bg_color=000000&color=00b7ff&line=00b7ff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omar-alhendi&bg_color=000000&color=00b7ff&line=00b7ff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details>
   <summary>:zap: More </summary>
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=omar-al-hendi&theme=dark&background=000000" height="140"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-al-hendi&layout=compact&theme=vision-friendly-dark" height="140"/>
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=omar-alhendi&theme=dark&background=000000" height="140"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-alhendi&layout=compact&theme=vision-friendly-dark" height="140"/>
 </details>
