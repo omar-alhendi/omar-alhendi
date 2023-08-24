@@ -4,7 +4,7 @@
 <h3 align="left"></h3>
 
 <p align='center'>
-    <a href='https://github.com/omar-al-hendi?tab=followers'>
+    <a href='https://github.com/omar-alhendi?tab=followers'>
         <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/omar-al-hendi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
     </a>
     <a href="https://www.linkedin.com/in/omar-al-hendi-902754203/">
