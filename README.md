@@ -5,32 +5,14 @@
 
 <p align='center'>
     <a href='https://github.com/omar-alhendi?tab=followers'>
-        <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/omar-al-hendi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
+        <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/omar-alhendi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
     </a>
     <a href="https://www.linkedin.com/in/omar-al-hendi-902754203/">
       <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
 
-
-```yaml
-name: Omar Al Hendi
-current_job: Software Engineer
-education: Bachelor of Computer Science (Software Engineering)
-company: Rihal.om
-
-fields_of_interests: [
-    "Web Development",
-    "Blockchain",
-    "Machine Learning",
-    "DevOps"
-]
-  
-currently_learning: ["Docker, Solidity, Go"]
-``` 
- 
-
-## 🛠 Languages and Tools:
+ ## 🛠 Languages and Tools:
 
 ### Frontend:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
